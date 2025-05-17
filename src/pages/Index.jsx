@@ -121,7 +121,7 @@ const Index = () => {
   return (
     <>
     <div className={styles.container}>
-       <h1> Expense Tracker </h1> 
+       <h1>Expense Tracker</h1> 
        <div className={styles.cardsWrapper}>
           <Card
           title="Wallet Balance"
